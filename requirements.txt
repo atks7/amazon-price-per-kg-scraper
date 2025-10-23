@@ -1,7 +1,4 @@
 flask
-
 playwright
-
 beautifulsoup4
-
 gunicorn
